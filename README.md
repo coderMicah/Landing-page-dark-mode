@@ -24,7 +24,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/desktop.gif)
-![](./images/mobile.jpg)
 
 ### Links
 
